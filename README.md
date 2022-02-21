@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Iván</h1>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pedroifgonzalez&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 <h3 align="center">A passionate Python Developer</h3>
 <p aligh="center">
 - 🌱 I’m currently learning **Ansible**
