@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pedro Iván</h1>
 <h3 align="center">A passionate Python Developer</h3>
-
+<p aligh="center">
 - 🌱 I’m currently learning **Ansible**
-
+</p>
+<p aligh="center">
 - 💬 Ask me about **Python, Django**
-
+</p>
+<p aligh="center">
 - 📫 How to reach me **pedroifgonzalez@gmail.com**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
