@@ -1,15 +1,12 @@
-<img width="50%"
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pedroifgonzalez&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
 <h3 align="center">A passionate Python Developer</h3>
 <p aligh="center">
-- 🌱 I’m currently learning **Ansible**
+- 🌱 I’m currently learning Ansible
 </p>
 <p aligh="center">
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about Python, Django
 </p>
 <p aligh="center">
-- 📫 How to reach me **pedroifgonzalez@gmail.com**
+- 📫 How to reach me pedroifgonzalez@gmail.com
 </p>
 
 <h3 align="left">Connect with me:</h3>
