@@ -1,8 +1,5 @@
 <h3 align="center">A passionate Python Developer</h3>
 <p aligh="center">
-- 🌱 I’m currently learning JavaScript and React
-</p>
-<p aligh="center">
 - 💬 Ask me about Python, Django
 </p>
 <p aligh="center">
